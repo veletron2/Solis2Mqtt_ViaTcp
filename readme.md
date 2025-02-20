@@ -1,3 +1,7 @@
+
+Forked from https://github.com/ahinko/tcpsolis2mqtt/ purely so I can fiddle with it!
+
+
 # TCP to S2-WL-ST to MQTT
 
 Pull data from Solis S2-WL-ST data logger using TCP without additional hardware. Send the data to a MQTT server with Home Assistant auto discovery.
